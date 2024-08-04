@@ -1,4 +1,4 @@
-package b;
+package a;
 
 public class App {
     public void print(){
